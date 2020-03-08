@@ -26,3 +26,5 @@ tensorflow ==2.0
         * 2.1을 설치하여도 무리없이 동작함
     * code실행
     
+# Datasetslib
+* source : https://github.com/armando-fandango/datasetslib.git

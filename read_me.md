@@ -10,10 +10,6 @@ Tensorflow 2.0 version Mnist 예제
 
 5. Keras와 Tensorflow를 모두 비교하고, 모두 쉽게 사용하길
 
-# Mnist Data
-이미지 손 글씨 숫자 데이터 예제 
-기본 28x28 이미지 데이터
-![alt text](./figure/mnist_example.png )
 # Tensorflow Version
 tensorflow ==2.0
 

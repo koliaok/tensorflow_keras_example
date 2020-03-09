@@ -93,16 +93,16 @@ class TimeSeriesTensorflow(object):
             # evaluation flow
             start_cnt = 0
             for excution_cnt in range(test_data_size):
-                feed_x_train, feed_y_train, start_cnt = self.get_batch(start_cnt, test_batch_size, window_size,
+                feed_x_test, feed_y_test, start_cnt = self.get_batch(start_cnt, test_batch_size, window_size,
                                                                        output_number, test)
-                res_logits,_ = sess.run([logits, loss], feed_dict={x_input: feed_x_train, y_input: feed_y_train})
+                res_logits,_ = sess.run([logits, loss], feed_dict={x_input: feed_x_test, y_input: feed_y_test})
 
 
 
         predict_graph_list = res_logits[0]
-        feed_y_train = feed_y_train.reshape(-1, 1)
+        feed_y_test = feed_y_test.reshape(-1, 1)
         predict_data = minmax_model.inverse_transform(predict_graph_list)
-        testPredictPlot = minmax_model.inverse_transform(feed_y_train)
+        testPredictPlot = minmax_model.inverse_transform(feed_y_test)
         plt.plot(testPredictPlot, label='Original TeST')
         plt.plot(predict_data, label='Predict Test')
         plt.legend()

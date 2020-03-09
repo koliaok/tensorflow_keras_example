@@ -58,7 +58,8 @@ class TimeSeriesTensorflow(object):
 
         # model define
         model = tf.keras.models.Sequential()
-        model.add(tf.keras.layers.SimpleRNN(units=rnn_parameter, input_shape=(feed_x_train.shape[1], feed_x_train.shape[2])))
+        model.add(tf.keras.layers.LSTM(units=rnn_parameter, input_shape=(feed_x_train.shape[1], feed_x_train.shape[2])))
+        #model.add(tf.keras.layers.SimpleRNN(units=rnn_parameter, input_shape=(feed_x_train.shape[1], feed_x_train.shape[2])))
         model.add(tf.keras.layers.Dense(1))
         model.summary()
 

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1479cd9b-451a-4d65-ace8-3793354bc535" name="Default Changelist" comment="add airline passengers Air-Line">
+      <change afterPath="$PROJECT_DIR$/time_series_example/ch-07b_RNN_TimeSeries_Keras.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="19067bdd-6eab-48c7-aef1-c8defa8b6d2a" />
+  <component name="ProjectId" id="1YiQQzFIyEptXWfOblTKS6aXfy6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/time_series_example" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/time_series_example" />
+      <recent name="$PROJECT_DIR$/minist_example" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/RNN_project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RNN_project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.time_series_tensorflow">
+    <configuration name="airline_passanger_tensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_keras_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rnn_series_tensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_keras_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_project/rnn_series_tensorflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="time_series_tensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_keras_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_project/time_series_tensorflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.time_series_tensorflow" />
+        <item itemvalue="Python.rnn_series_tensorflow" />
+        <item itemvalue="Python.airline_passanger_tensorflow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1479cd9b-451a-4d65-ace8-3793354bc535" name="Default Changelist" comment="" />
+      <created>1583422922466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583422922466</updated>
+      <workItem from="1583422929987" duration="8049000" />
+      <workItem from="1583562778705" duration="266000" />
+      <workItem from="1583657683472" duration="8978000" />
+    </task>
+    <task id="LOCAL-00001" summary="add airline passengers Air-Line">
+      <created>1583423265266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583423265267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add time series tensorflow V2 example version &quot;RNN&quot;, &quot;LSTM&quot;">
+      <created>1583666884271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583666884271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reformatting Read me file">
+      <created>1583667683297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583667683297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add airline passengers Air-Line" />
+    <MESSAGE value="Add time series tensorflow V2 example version &quot;RNN&quot;, &quot;LSTM&quot;" />
+    <MESSAGE value="Reformatting Read me file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformatting Read me file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="96" key="CommitChangelistDialog2" timestamp="1583667683011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="293" y="96" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583667683011" />
+    <state x="844" y="249" key="CommitChangelistDialog2/0.23.2560.1342@0.23.2560.1342" timestamp="1583423264829" />
+    <state width="1042" height="292" key="DebuggerActiveHint" timestamp="1583666230273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1042" height="292" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1583666230273" />
+    <state width="1852" height="466" key="DebuggerActiveHint/0.0.2560.1440@0.0.2560.1440" timestamp="1583559988673" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1583666745973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1583666745973" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.832@0.23.1440.832" timestamp="1583660358646" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1583666620424">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583666620424" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560675" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1583666620423">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583666620423" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560673" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1583666620422">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583666620422" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560672" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1583666620423">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583666620423" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560674" />
+    <state width="1398" height="214" key="GridCell.Tab.1.bottom" timestamp="1583666269133">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583666269133" />
+    <state width="2518" height="372" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560660" />
+    <state width="1398" height="214" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1583666059779" />
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom/0.23.2560.1342@0.23.2560.1342" timestamp="1583512155996" />
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom/0.23.2560.1372@0.23.2560.1372" timestamp="1583559979514" />
+    <state width="1398" height="214" key="GridCell.Tab.1.center" timestamp="1583666269132">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583666269132" />
+    <state width="2518" height="372" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560659" />
+    <state width="1398" height="214" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1583666059777" />
+    <state width="2518" height="519" key="GridCell.Tab.1.center/0.23.2560.1342@0.23.2560.1342" timestamp="1583512155995" />
+    <state width="2518" height="519" key="GridCell.Tab.1.center/0.23.2560.1372@0.23.2560.1372" timestamp="1583559979513" />
+    <state width="1398" height="214" key="GridCell.Tab.1.left" timestamp="1583666269131">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583666269131" />
+    <state width="2518" height="372" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560659" />
+    <state width="1398" height="214" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1583666059777" />
+    <state width="2518" height="519" key="GridCell.Tab.1.left/0.23.2560.1342@0.23.2560.1342" timestamp="1583512155994" />
+    <state width="2518" height="519" key="GridCell.Tab.1.left/0.23.2560.1372@0.23.2560.1372" timestamp="1583559979512" />
+    <state width="1398" height="214" key="GridCell.Tab.1.right" timestamp="1583666269132">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583666269132" />
+    <state width="2518" height="372" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1583562560660" />
+    <state width="1398" height="214" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1583666059778" />
+    <state width="2518" height="519" key="GridCell.Tab.1.right/0.23.2560.1342@0.23.2560.1342" timestamp="1583512155995" />
+    <state width="2518" height="519" key="GridCell.Tab.1.right/0.23.2560.1372@0.23.2560.1372" timestamp="1583559979513" />
+    <state x="781" y="359" key="SettingsEditor" timestamp="1583422986994">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1583422986994" />
+    <state x="591" y="247" key="Vcs.Push.Dialog.v2" timestamp="1583667694450">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="591" y="247" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583667694450" />
+    <state x="1050" y="391" key="Vcs.Push.Dialog.v2/0.23.2560.1342@0.23.2560.1342" timestamp="1583423586847" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583664266116">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1583664266116" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1583660358647" />
+    <state x="1026" y="449" key="git4idea.merge.GitPullDialog" timestamp="1583423492423">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state x="1026" y="449" key="git4idea.merge.GitPullDialog/0.23.2560.1342@0.23.2560.1342" timestamp="1583423492423" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/time_series_example/time_series_tensorflow.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tensorflow_keras_example$airline_passanger_tensorflow.coverage" NAME="airline_passanger_tensorflow Coverage Results" MODIFIED="1583562392246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN_project" />
+    <SUITE FILE_PATH="coverage/tensorflow_keras_example$test_data.coverage" NAME="test_data Coverage Results" MODIFIED="1583666620416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN_project" />
+    <SUITE FILE_PATH="coverage/tensorflow_keras_example$rnn_series_tensorflow.coverage" NAME="rnn_series_tensorflow Coverage Results" MODIFIED="1583666004958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN_project" />
+  </component>
+</project>

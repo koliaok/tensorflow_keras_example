@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a56837e2-678e-4df1-9cac-421e109d2743" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minist_example/keras_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/minist_example/keras_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minist_example/tensorflow_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/minist_example/tensorflow_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yjh0FjNT7vrqn0i9yCQZfZFdnh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="airline_passanger_tensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_keras_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RNN_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.airline_passanger_tensorflow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a56837e2-678e-4df1-9cac-421e109d2743" name="Default Changelist" comment="" />
+      <created>1583461686048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583461686048</updated>
+      <workItem from="1583461692542" duration="16487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1603" height="466" key="DebuggerActiveHint" timestamp="1583483766772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1603" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583483766772" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583503886190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886190" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583503886189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886189" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583503886189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886189" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583503886190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886190" />
+    <state width="1574" height="304" key="GridCell.Tab.1.bottom" timestamp="1583503886176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1574" height="304" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886176" />
+    <state width="1574" height="304" key="GridCell.Tab.1.center" timestamp="1583503886175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1574" height="304" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886175" />
+    <state width="1574" height="304" key="GridCell.Tab.1.left" timestamp="1583503886174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1574" height="304" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886174" />
+    <state width="1574" height="304" key="GridCell.Tab.1.right" timestamp="1583503886175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1574" height="304" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583503886175" />
+    <state x="574" y="209" key="SettingsEditor" timestamp="1583461732926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="209" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583461732926" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RNN_project/airline_passanger_tensorflow.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tensorflow_keras_example$airline_passanger_tensorflow.coverage" NAME="airline_passanger_tensorflow Coverage Results" MODIFIED="1583483798983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN_project" />
+  </component>
+</project>
